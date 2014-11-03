@@ -39,23 +39,24 @@ a {
 nav ul {
   float: left;
   width: 100%;
-  padding: 0;
-  padding-bottom: 25pt;
+  padding: 5pt 0 20pt 0;
   margin: 0;
   list-style-type: none;
 }
 
 nav ul li {
   display: inline;
-  padding-right: 1em;
+  padding-right: 6pt;
 }
 
-nav ul li a {
+nav a {
   color: black;
 }
 
 .large {
   font-size: 18pt;
+  padding: 0;
+  margin: 0;
 }
 
 .selected {
@@ -68,7 +69,7 @@ h2 {
 }
 
 em {
-  color: #a49f79;
+  color: #847f59;
   font-style: normal;
 }
 
@@ -88,4 +89,8 @@ hr {
   border: 0;
   height: 1px;
   background: #d4cfa9;
+}
+
+footer {
+  padding-top: 10pt;
 }

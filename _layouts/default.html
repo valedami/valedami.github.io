@@ -9,9 +9,16 @@ layout: body
 <div id="narrow">
 
 <nav>
+<p class="large">
+{% if page.title == "home" %}
+<span class="selected">Valeria D'Amico</span>
+{% else %}
+<a href="/">Valeria D'Amico</a>
+{% endif %}
+</p>
 <ul>
 {% for item in site.nav %}
-<li {% if forloop.index == 1 %}class="large"{% endif %}>
+<li>
 {% if page.title == item.title %}
 <span class="selected">{{ item.title }}</span>
 {% else %}
@@ -25,5 +32,11 @@ layout: body
 <section>
 {{ content }}
 </section>
+
+<footer>
+<em>
+Contact Valeria at <a href="mailto:valedami91@gmail.com">valedami91@gmail.com</a> or call 320 9423700.
+</em>
+</footer>
 
 </div>

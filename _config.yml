@@ -3,13 +3,11 @@ shortname: Valeria
 markdown: redcarpet
 pygments: true
 nav:
-  - title: Valeria D'Amico
-    url: /index.html
-  - title: About
-    url: /about.html
+  - title: Bio
+    url: /bio.html
   - title: Projects
     url: /projects.html
   - title: Gyrotonic®
     url: /gyrotonic.html
-  - title: Calendar
-    url: /calendar.html
+  - title: Agenda
+    url: /agenda.html
