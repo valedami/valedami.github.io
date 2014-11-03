@@ -1,0 +1,29 @@
+---
+layout: body
+---
+
+<div id="header">
+<img src="/banner.png">
+</div>
+
+<div id="narrow">
+
+<nav>
+<ul>
+{% for item in site.nav %}
+<li {% if forloop.index == 1 %}class="large"{% endif %}>
+{% if page.title == item.title %}
+<span class="selected">{{ item.title }}</span>
+{% else %}
+<a href="{{ item.url }}">{{ item.title }}</a>
+{% endif %}
+</li>
+{% endfor %}
+</ul>
+</nav>
+
+<section>
+{{ content }}
+</section>
+
+</div>
