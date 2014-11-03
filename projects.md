@@ -51,6 +51,7 @@ homosexuality.
 <div class="imgbar">
 <a href="/images/sidamour1.jpg"><img src="/thumbs/sidamour1.jpg"></a>
 <a href="/images/sidamour2.jpg"><img src="/thumbs/sidamour2.jpg"></a>
+<a href="/images/sidamour3.jpg"><img src="/thumbs/sidamour3.jpg"></a>
 </div>
 
 ## _2014:_ Modeling
@@ -62,7 +63,16 @@ homosexuality.
 
 ## _2013:_ De Stilte
 
+<div class="imgbar">
+<a href="/images/destilte1.jpg"><img src="/thumbs/destilte1.jpg"></a>
+<iframe width="228" height="128" src="//www.youtube.com/embed/8FD2OZGClSk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## _2013:_ When we first met..
+
+<div class="imgbar">
+<a href="/images/whenwefirstmet1.jpg"><img src="/thumbs/whenwefirstmet1.jpg"></a>
+</div>
 
 Study on human memories and possibilities of meeting each other in different lives.
 
@@ -85,4 +95,25 @@ Photos by Giuliano di Bello.
 <a href="/images/photoshoots_giuliano2.jpg"><img src="/thumbs/photoshoots_giuliano2.jpg"></a>
 <a href="/images/photoshoots_giuliano3.jpg"><img src="/thumbs/photoshoots_giuliano3.jpg"></a>
 <a href="/images/photoshoots_giuliano4.jpg"><img src="/thumbs/photoshoots_giuliano4.jpg"></a>
+<a href="/images/photoshoots_giuliano5.jpg"><img src="/thumbs/photoshoots_giuliano5.jpg"></a>
+</div>
+
+## _2012:_ Spostare
+
+Choreography: Lorenzo Capodieci.  
+Keywords: abstraction, oppression, humanity, challenge, complexity,
+questioning, deciding, relations, survival.
+
+## _2012:_ When the time made two potentials meet
+
+Choreography: Lorenzo Capodieci in collaboration with the dancers.  
+Keywords: power, infinite, time, struggle, birth, nature.
+
+## _2011:_ TornaSE
+
+Trip through human psychosis. Choreographed by Rita Soeiro.
+
+<div class="imgbar">
+<a href="/images/tornarse1.jpg"><img src="/thumbs/tornarse1.jpg"></a>
+<a href="/images/tornarse2.jpg"><img src="/thumbs/tornarse2.jpg"></a>
 </div>

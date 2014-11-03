@@ -1,6 +1,0 @@
-#! /bin/sh
-
-for orig in ../images/*; do
-  echo converting $orig
-  convert -resize x128 "$orig" "`basename $orig`"
-done
