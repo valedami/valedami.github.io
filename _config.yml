@@ -3,7 +3,7 @@ shortname: Valeria
 markdown: redcarpet
 pygments: true
 nav:
-  - title: Bio
+  - title: Biography
     url: /bio.html
   - title: Projects
     url: /projects.html

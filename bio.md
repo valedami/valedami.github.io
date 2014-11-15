@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bio
+title: Biography
 ---
 
 _Italian [below] (#italian)._

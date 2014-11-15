@@ -29,3 +29,5 @@ Per informazioni e prenotazioni tel. 320 9423700 o <a
 href="mailto:valedami91@gmail.com">valedami91@gmail.com</a>.
 
 Riguardo il metodo e la sede visitare il sito [Gyrotonic Torino] (http://www.gyrotonic-torino.com).
+
+<img src="/images/gyrotonic.jpg" class="fullwidth">

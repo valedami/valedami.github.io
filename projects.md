@@ -3,36 +3,37 @@ layout: default
 title: Projects
 ---
 
-## _In progress:_ IstantaNEO
+## _In progress_ IstantaNEO
 
 In collaboration with Natalia Iwaniec, a new research project that combines
 different visual arts. The study of the plasticity of a body in movement
 contrasted with the static form of photography in all its intensity.
 
 <div class="imgbar">
-<iframe width="228" height="128" src="//www.youtube.com/embed/_1dGs6jU4pA" frameborder="0" allowfullscreen></iframe>
+<a href="http://youtu.be/_1dGs6jU4pA"><img src="/thumbs/istantaneo1.jpg"></a>
 </div>
 
-## _In progress:_ Interplay 2015
+## _In progress_ Interplay 2015
 
 Permanent workshop with Daniele Ninarello in collaboration with Cecchi Point, Torino.
 
-## _In progress:_ Digitale Purpurea
+## _In progress_ Digitale Purpurea
 
 Creation by Daniele Albanese, Torino.
 
 
-## _In progress:_ Il mondo dei colori
+## _In progress_ Il mondo dei colori
 
 Projects for elementary schools, Piemonte, Italy.
 
-## _2014:_ ModemPro
+## _2014_ ModemPro
 
 <div class="imgbar">
-<iframe src="//player.vimeo.com/video/110454971" width="228" height="128" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<a href="http://vimeo.com/czd/modempro214"><img src="/thumbs/modempro1.jpg"></a>
+<a href="/images/modempro2.jpg"><img src="/thumbs/modempro2.jpg"></a>
 </div>
 
-## _2014:_ Mirror me
+## _2014_ Mirror me
 
 Project directed by Piet Rogie for Galerie Hommes. Study of relationships and
 unconsciousness.
@@ -43,7 +44,7 @@ unconsciousness.
 <a href="/images/mirrorme3.jpg"><img src="/thumbs/mirrorme3.jpg"></a>
 </div>
 
-## _2014:_ SID'Amour
+## _2014_ SID'Amour
 
 Residency Re.Cre.Che, Italy. Performance on possibilities of love and
 homosexuality.
@@ -54,29 +55,30 @@ homosexuality.
 <a href="/images/sidamour3.jpg"><img src="/thumbs/sidamour3.jpg"></a>
 </div>
 
-## _2014:_ Modeling
+## _2014_ Modeling
 
 <div class="imgbar">
 <a href="/images/modeling1.jpg"><img src="/thumbs/modeling1.jpg"></a>
 <a href="/images/modeling2.jpg"><img src="/thumbs/modeling2.jpg"></a>
 </div>
 
-## _2013:_ De Stilte
+## _2013_ De Stilte
 
 <div class="imgbar">
-<a href="/images/destilte1.jpg"><img src="/thumbs/destilte1.jpg"></a>
-<iframe width="228" height="128" src="//www.youtube.com/embed/8FD2OZGClSk" frameborder="0" allowfullscreen></iframe>
+<a href="http://youtu.be/8FD2OZGClSk"><img src="/thumbs/destilte1.jpg"></a>
+<a href="/images/destilte2.jpg"><img src="/thumbs/destilte2.jpg"></a>
 </div>
 
-## _2013:_ When we first met..
-
-<div class="imgbar">
-<a href="/images/whenwefirstmet1.jpg"><img src="/thumbs/whenwefirstmet1.jpg"></a>
-</div>
+## _2013_ When we first met..
 
 Study on human memories and possibilities of meeting each other in different lives.
 
-## _2013:_ Photo shoots
+<div class="imgbar">
+<img src="/thumbs/whenwefirstmet1.jpg">
+<a href="/images/whenwefirstmet2.jpg"><img src="/thumbs/whenwefirstmet2.jpg"></a>
+</div>
+
+## _2013_ Photo shoots
 
 Photos by Sonia Aloisi.
 
@@ -98,18 +100,26 @@ Photos by Giuliano di Bello.
 <a href="/images/photoshoots_giuliano5.jpg"><img src="/thumbs/photoshoots_giuliano5.jpg"></a>
 </div>
 
-## _2012:_ Spostare
+## _2012_ Spostare
 
 Choreography: Lorenzo Capodieci.  
 Keywords: abstraction, oppression, humanity, challenge, complexity,
 questioning, deciding, relations, survival.
 
-## _2012:_ When the time made two potentials meet
+<div class="imgbar">
+<a href="http://vimeo.com/38534355"><img src="/thumbs/spostare1.jpg"></a>
+</div>
+
+## _2012_ When the time made two potentials meet
 
 Choreography: Lorenzo Capodieci in collaboration with the dancers.  
 Keywords: power, infinite, time, struggle, birth, nature.
 
-## _2011:_ TornaSE
+<div class="imgbar">
+<a href="http://vimeo.com/49291672"><img src="/thumbs/potentials1.jpg"></a>
+</div>
+
+## _2011_ TornaSE
 
 Trip through human psychosis. Choreographed by Rita Soeiro.
 

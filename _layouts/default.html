@@ -2,41 +2,46 @@
 layout: body
 ---
 
-<div id="header">
-<img src="/banner.png">
-</div>
+<div id="banner"></div>
 
-<div id="narrow">
-
-<nav>
-<p class="large">
+<header>
+<div class="narrow">
+<h1>
+<span class="pad">
 {% if page.title == "home" %}
-<span class="selected">Valeria D'Amico</span>
+Valeria D'Amico
 {% else %}
 <a href="/">Valeria D'Amico</a>
 {% endif %}
-</p>
+</span>
+</h1>
+</div>
+</header>
+
+<nav>
+<div class="narrow">
 <ul>
 {% for item in site.nav %}
 <li>
 {% if page.title == item.title %}
-<span class="selected">{{ item.title }}</span>
+<span class="pad selected">{{ item.title }}</span>
 {% else %}
-<a href="{{ item.url }}">{{ item.title }}</a>
-{% endif %}
+<span class="pad"><a href="{{ item.url }}">{{ item.title }}</a></span>
 </li>
+{% endif %}
 {% endfor %}
 </ul>
+</div>
 </nav>
 
-<section>
+<main>
+<div class="narrow">
 {{ content }}
-</section>
+</div>
+</main>
 
 <footer>
-<em>
+<div class="narrow">
 Contact Valeria at <a href="mailto:valedami91@gmail.com">valedami91@gmail.com</a> or call 320 9423700.
-</em>
-</footer>
-
 </div>
+</footer>
