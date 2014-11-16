@@ -160,7 +160,18 @@ dd {
   padding: 0 0 0.5em 0;
 }
 
-iframe {
-  margin-top: 2em;
-  margin-bottom: 2em;
+.videoWrapper {
+  position: relative;
+  padding-bottom: 52%; /* 16:9 */
+  padding-top: 25px;
+  margin: 20px 0;
+  height: 0;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
