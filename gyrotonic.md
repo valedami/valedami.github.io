@@ -17,11 +17,11 @@ dell'equilibrio ed una migliore coordinazione neuro-muscolare.
 
 Benefici del <span class="gyro">GYROTONIC®</span>:
 
-* Maggiore flessibilità della colonna
-* Maggiore estensione articolare
-* Controllo cosciente della postura
-* Riduzione dei microtraumi da stress
-* Riduzione dei dolori articolari
+ * Maggiore flessibilità della colonna
+ * Maggiore estensione articolare
+ * Controllo cosciente della postura
+ * Riduzione dei microtraumi da stress
+ * Riduzione dei dolori articolari
 
 Valeria é disponibile a dare lezioni private e di coppia presso il centro <span
 class="gyro">GYROTONIC® TORINO</span> situato in zona San Salvario, Via Sant'Anselmo 25.
