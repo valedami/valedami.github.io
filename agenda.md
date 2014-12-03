@@ -6,8 +6,11 @@ title: Agenda
 ## 2014
 
 <dl>
-<dt>14 Dec</dt>
-<dd>Performing event "IstantaNEO" <b>premiere</b> at Bunker, C.so Bologna, Torino.</dd>
+<dt>8 Dec</dt>
+<dd>Performing event "IstantaNEO" at <a
+href="https://www.facebook.com/pages/Atelier-Giorgi/141592662625676">Atelier
+Giorgi</a> and <a href="http://www.spaziomouv.it/">Spazio MOUV</a>, Torino,
+19:00-20:00 (<b>premiere</b>).</dd>
 <dt>5 Dec</dt>
 <dd>Performing event "Fado", None, Torino.</dd>
 <dt>30 Nov</dt>
