@@ -3,28 +3,47 @@ layout: default
 title: Projects
 ---
 
-## _In progress_ IstantaNEO
+## _In progress_ InstantaNEO
 
 In collaboration with Natalia Iwaniec, a new research project that combines
 different visual arts. The study of the plasticity of a body in movement
 contrasted with the static form of photography in all its intensity.
 
 <div class="imgbar">
-<a href="http://youtu.be/_1dGs6jU4pA"><img src="/thumbs/istantaneo1.jpg"></a>
+<a href="http://youtu.be/LgKFwHiTFWc"><img src="/thumbs/instantaneo1.jpg"></a>
+<a href="/images/instantaneo2.jpg"><img src="/thumbs/instantaneo2.jpg"></a>
+<a href="/images/instantaneo3.jpg"><img src="/thumbs/instantaneo3.jpg"></a>
+<a href="/images/instantaneo4.jpg"><img src="/thumbs/instantaneo4.jpg"></a>
 </div>
 
-## _In progress_ Interplay 2015
+## _In progress_ Le maniche del capitano
 
-Permanent workshop with Daniele Ninarello in collaboration with Cecchi Point, Torino.
+Theatrical performance from the company "Quelli dell'isola" touring through
+Piemonte. The dramaturgical piece tells the tragic story of Gran Torino, the
+complete team of which died in 1949 in a [plane crash]
+(http://en.wikipedia.org/wiki/Superga_air_disaster).
+
+<div class="imgbar">
+<a href="/images/manichecapitano1.jpg"><img src="/thumbs/manichecapitano1.jpg"></a>
+<a href="/images/manichecapitano2.jpg"><img src="/thumbs/manichecapitano2.jpg"></a>
+</div>
+
+## _In progress_ The Space Between
+
+Permanent workshop with Daniele Ninarello. Choreography from Daniele Ninarello,
+creation for Interplay#2015, collaboration BelfioreMC and Cecchi Point Torino.
 
 ## _In progress_ Digitale Purpurea
 
-Creation by Daniele Albanese, Torino.
+Creation by Daniele Albanese, Compagnia STALKer in collaboration with Cecchi
+Point. Keywords: patterns, nature, magnets and energies.
 
 
 ## _In progress_ Il mondo dei colori
 
-Projects for elementary schools, Piemonte, Italy.
+Projects for elementary schools (age 7+), Piemonte, Italy. Inspired by the book
+of the same title by Paolo Marabotto. The project aims to break down walls
+between cultures and social groups.
 
 ## _2014_ ModemPro
 
