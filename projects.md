@@ -3,11 +3,12 @@ layout: default
 title: Projects
 ---
 
-## _In progress_ InstantaNEO
+## _November/December 2014_ InstantaNEO
 
 In collaboration with Natalia Iwaniec, a new research project that combines
 different visual arts. The study of the plasticity of a body in movement
 contrasted with the static form of photography in all its intensity.
+To be continued.
 
 <div class="imgbar">
 <a href="http://youtu.be/LgKFwHiTFWc"><img src="/thumbs/instantaneo1.jpg"></a>
@@ -16,7 +17,9 @@ contrasted with the static form of photography in all its intensity.
 <a href="/images/instantaneo4.jpg"><img src="/thumbs/instantaneo4.jpg"></a>
 </div>
 
-## _In progress_ Le maniche del capitano
+Video credits Andrea Re.
+
+## _December 2014-April 2015_ Le maniche del capitano
 
 Theatrical performance from the company "Quelli dell'isola" touring through
 Piemonte. The dramaturgical piece tells the tragic story of Gran Torino, the
@@ -30,32 +33,46 @@ complete team of which died in 1949 in a [plane crash]
 
 ## _In progress_ The Space Between
 
-Permanent workshop with Daniele Ninarello. Choreography from Daniele Ninarello,
-creation for Interplay#2015, collaboration BelfioreMC and Cecchi Point Torino.
+Permanent workshop with Daniele Ninarello, exploring the distance between human
+beings in life, and the influence of one's own energy on the outside world.
+Choreography from Daniele Ninarello, creation for Interplay#2015, collaboration
+BelfioreMC and Cecchi Point Torino.
 
-## _In progress_ Digitale Purpurea
+## _December 2014 / January 2015_ Digitale Purpurea
 
 Creation by Daniele Albanese, Compagnia STALKer in collaboration with Cecchi
-Point. Keywords: patterns, nature, magnets and energies.
+Point.
 
+<div class="imgbar">
+<a href="/images/purpurea1.jpg"><img src="/thumbs/purpurea1.jpg"></a>
+<a href="/images/purpurea2.jpg"><img src="/thumbs/purpurea2.jpg"></a>
+<a href="/images/purpurea3.jpg"><img src="/thumbs/purpurea3.jpg"></a>
+</div>
 
-## _In progress_ Il mondo dei colori
+Keywords: patterns, nature, magnets and energies.
+
+## _January-March 2015_ Il mondo dei colori
 
 Projects for elementary schools (age 7+), Piemonte, Italy. Inspired by the book
 of the same title by Paolo Marabotto. The project aims to break down walls
 between cultures and social groups.
 
-## _2014_ ModemPro
+## _September/October 2014_ ModemPro
+
+A month of specialized study with Roberto Zappalà. The intensive workshop was
+driven by instinct, ethics and devotion. Catania, Italy.
 
 <div class="imgbar">
 <a href="http://vimeo.com/czd/modempro214"><img src="/thumbs/modempro1.jpg"></a>
 <a href="/images/modempro2.jpg"><img src="/thumbs/modempro2.jpg"></a>
 </div>
 
-## _2014_ Mirror me
+## _April/May 2014_ Mirror me
 
-Project directed by Piet Rogie for Galerie Hommes. Study of relationships and
-unconsciousness.
+Project directed by Piet Rogie for the opening of <a
+href="http://kunstweekendcharlois.nl/?page_id=1746">Kunstweekend Charlois</a>
+in <a href="http://www.hommes.nl/">Galerie Hommes</a>. Study of relationships
+and unconsciousness.
 
 <div class="imgbar">
 <a href="/images/mirrorme1.jpg"><img src="/thumbs/mirrorme1.jpg"></a>
@@ -65,8 +82,8 @@ unconsciousness.
 
 ## _2014_ SID'Amour
 
-Residency Re.Cre.Che, Italy. Performance on possibilities of love and
-homosexuality.
+Residency ReCreChe, Cherasco, Italy. Performance on possibilities of life, love
+and homosexuality.
 
 <div class="imgbar">
 <a href="/images/sidamour1.jpg"><img src="/thumbs/sidamour1.jpg"></a>
@@ -76,12 +93,21 @@ homosexuality.
 
 ## _2014_ Modeling
 
+Valeria has been posing for <a href="http://www.skvr.nl/">SKVR Rotterdam</a>
+and private artists achieving a deep body sensitivity.
+
 <div class="imgbar">
 <a href="/images/modeling1.jpg"><img src="/thumbs/modeling1.jpg"></a>
 <a href="/images/modeling2.jpg"><img src="/thumbs/modeling2.jpg"></a>
 </div>
 
 ## _2013_ De Stilte
+
+<a href="http://www.destilte.nl/site/">De Stilte</a> (Breda, The Netherlands)
+is a dance company for kids and youth with the beautiful aim to bring dance
+to young children to give them the opportunity to develop a critical point of
+view towards art. In De Stilte, Valeria performed in schools duets from Bruno
+Caverna, Jack Timmermans, Ives Thuwis.
 
 <div class="imgbar">
 <a href="http://youtu.be/8FD2OZGClSk"><img src="/thumbs/destilte1.jpg"></a>
@@ -96,6 +122,8 @@ Study on human memories and possibilities of meeting each other in different liv
 <img src="/thumbs/whenwefirstmet1.jpg">
 <a href="/images/whenwefirstmet2.jpg"><img src="/thumbs/whenwefirstmet2.jpg"></a>
 </div>
+
+Video credits Fanny Hagmeier, Federica Portaccio.
 
 ## _2013_ Photo shoots
 
@@ -121,26 +149,29 @@ Photos by Giuliano di Bello.
 
 ## _2012_ Spostare
 
-Choreography: Lorenzo Capodieci.  
-Keywords: abstraction, oppression, humanity, challenge, complexity,
-questioning, deciding, relations, survival.
+Rotterdam, The Netherlands. Choreography: Lorenzo Capodieci.
 
 <div class="imgbar">
 <a href="http://vimeo.com/38534355"><img src="/thumbs/spostare1.jpg"></a>
+<a href="/images/spostare2.jpg"><img src="/thumbs/spostare2.jpg"></a>
 </div>
+
+Keywords: abstraction, oppression, humanity, challenge, complexity,
+questioning, deciding, relations, survival.
 
 ## _2012_ When the time made two potentials meet
 
-Choreography: Lorenzo Capodieci in collaboration with the dancers.  
-Keywords: power, infinite, time, struggle, birth, nature.
+Rotterdam, The Netherlands. Choreography: Lorenzo Capodieci in collaboration with the dancers.
 
 <div class="imgbar">
 <a href="http://vimeo.com/49291672"><img src="/thumbs/potentials1.jpg"></a>
 </div>
 
+Keywords: power, infinite, time, struggle, birth, nature.
+
 ## _2011_ TornaSE
 
-Trip through human psychosis. Choreographed by Rita Soeiro.
+Oporto, Portugal. Trip through human psychosis. Choreographed by Rita Soeiro.
 
 <div class="imgbar">
 <a href="/images/tornarse1.jpg"><img src="/thumbs/tornarse1.jpg"></a>
