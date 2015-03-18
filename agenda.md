@@ -9,21 +9,25 @@ title: Agenda
 <dt>26 Jul</dt>
 <dd>Gyrotinic final certification.</dd>
 <dt>29 May</dt>
-<dd>Performing event "The Space Between" at <a href="http://www.mosaicodanza.it/mosaicohome.htm">Interplay#15 festival</a>,
+<dd>Performing event "The Space Between" at <a
+href="http://www.mosaicodanza.it/mosaicohome.htm">Interplay#15 festival</a>,
 Torino <b>premiere</b>.</dd>
 <dt>28 Mar</dt>
 <dd>Performing event "Le Maniche del Capitano", Piscina (To).</dd>
 <dt>20 Feb</dt>
-<dd>Performing event "The Space Between" preview at Cecchi Point, Torino.</dd>
+<dd>Performing event "The space between", Cecchi Point, 21:00 Via Cecchi 17,
+Torino (<b>premiere</b>).</dd>
+<dt>19 Mar</dt>
+<dd>Lab and performing event with Cie. 21:00 at <a
+href="http://www.zerogrammi.org/#!alcesti-secondo-movimento/cs4j">ZEROGRAMMI</a>,
+Torino.</dd>
+<dt>11 Jan</dt>
+<dd>Performing event "Digitale Purpurea", Cecchi Point, 21:00 Via Cecchi 17, Torino (<b>premiere</b>).</dd>
 </dl>
 
 ## 2014
 
 <dl>
-<dt>20 Feb</dt>
-<dd>Performing event "The space between", Cecchi Point, 21:00 Via Cecchi 17, Torino (<b>premiere</b>).</dd>
-<dt>11 Jan</dt>
-<dd>Performing event "Digitale Purpurea", Cecchi Point, 21:00 Via Cecchi 17, Torino (<b>premiere</b>).</dd>
 <dt>20 Dec</dt>
 <dd>Performing event "Le maniche del capitano", Teatro di Vigone, Torino.</dd>
 <dt>8 Dec</dt>
