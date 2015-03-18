@@ -3,6 +3,34 @@ layout: default
 title: Projects
 ---
 
+## _In progress_ The Space Between
+
+From December 2014 to May 2015: permanent workshop with Daniele Ninarello.
+Choreography from Daniele Ninarello, creation for Interplay#2015, collaboration
+BelfioreMC and Cecchi Point Torino.
+
+## _In progress_ Collaborate creating "Idilli difficili"
+
+February to May 2015. By Daniela Paci and Marco Lorenzi. Organized by Maria
+Cristina Fontanelle for Cecchi Point, Torino.
+
+## _In progress_ Stage at Compagnia DNA
+
+From May 2015, following as a stagiaire the new creation at [DNA move]
+(http://www.dnamove.com/wp/), Bologna.
+
+## _In progress_ Dance video "The here and after"
+
+By Davide Perrino.
+
+## _Soon to realize_ Adelaide's After Party
+
+Cavallerizza Reale, Torino.
+
+## _Soon to realize_ Diapason's Mouv
+
+Valeria D'Amico and Sara Pischedda, Teramo.
+
 ## _In progress_ InstantaNEO
 
 In collaboration with Natalia Iwaniec, a new research project that combines
@@ -27,11 +55,6 @@ complete team of which died in 1949 in a [plane crash]
 <a href="/images/manichecapitano1.jpg"><img src="/thumbs/manichecapitano1.jpg"></a>
 <a href="/images/manichecapitano2.jpg"><img src="/thumbs/manichecapitano2.jpg"></a>
 </div>
-
-## _In progress_ The Space Between
-
-Permanent workshop with Daniele Ninarello. Choreography from Daniele Ninarello,
-creation for Interplay#2015, collaboration BelfioreMC and Cecchi Point Torino.
 
 ## _In progress_ Digitale Purpurea
 

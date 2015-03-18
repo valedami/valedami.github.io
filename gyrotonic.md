@@ -3,6 +3,42 @@ layout: default
 title: Gyrotonic®
 ---
 
+_Italian [below] (#italian)._
+
+The GYROTONIC® method, developed in the 80s by the Master Juliu Horvath, has
+shown to be an exceptional method suitable to develop the potential of not only
+physical athlete and dancer, but of every individual who wishes to know more
+about their body. The principles of Yoga, Tai-Chi, dance, gymnastics, swimming
+and the other disciplines mixed with great skill, lead anyone to simultaneously
+engage the muscles, tendons, ligaments and joints in order to make the body
+flexible and strong. By synchronizing movement with breathing, it improves lung
+capacity, venous flow and physical endurance. This method also yields a correct
+posture, a greater sense of balance and a better neuromuscular coordination.
+
+Benefits of GYROTONIC®:
+
+* Greater flexibility of the column
+* Major joint extension
+* Conscious control of posture
+* Reduce stress and microtraumas
+* Injuries prevention
+* Reduction of joint pain
+
+Valeria is available to give private lessons at the center GYROTONIC® TORINO
+located in the San Salvario, [Via Sant'Anselmo 25]
+(https://www.google.com/maps/place/Via+Sant'Anselmo,+25,+10125+Torino,+Italy/@45.0573857,7.6804356,17z/data=!3m1!4b1!4m2!3m1!1s0x47886d43addc3c97:0x7461e24219102c1d)
+or at the studio YogaPilatesTorino, C.so Tassoni.
+
+For information and reservations call 320 9423700 or mail <a
+href="mailto:valedami91@gmail.com">valedami91@gmail.com</a>.
+
+Regarding the method and location visit Gyrotonic Turin or [Yoga Pilates]
+(http://www.yogapilates.it).
+
+---
+
+<a name="italian"></a>
+
 Il <span class="gyro">GYROTONIC®</span>, sviluppato negli anni 80 dal Maestro
 Juliu Horvath, ha dimostrato, di essere un eccezionale metodo adatto a
 sviluppare le potenzialità fisiche non solo dell'atleta e del ballerino ma, di
