@@ -28,7 +28,7 @@ closer to the language of the choreographer. In January 2014 she works for the
 artist residency Re.Cre.Che of Cherasco, giving rise to an artistic journey
 with "SID'Amour.." which will be reproposed in September 2014 of the same year
 under the theme of "SID'Amour-Reinaldo Arenas" in collaboration with the
-company Elibats Moving Art in Catanzaro. In colleboration with art galeries she
+company Elibats Moving Art in Catanzaro. In colleboration with art galleries she
 works in Rotterdam in 2014 with the creation Piet Rogie "Mirror me."
 
 Fascinated by the human body she takes the license as instructor of the
