@@ -3,17 +3,6 @@ layout: default
 title: Projects
 ---
 
-## _In progress_ The Space Between
-
-From December 2014 to May 2015: permanent workshop with Daniele Ninarello.
-Choreography from Daniele Ninarello, creation for Interplay#2015, collaboration
-BelfioreMC and Cecchi Point Torino.
-
-## _In progress_ Collaborate creating "Idilli difficili"
-
-February to May 2015. By Daniela Paci and Marco Lorenzi. Organized by Maria
-Cristina Fontanelle for Cecchi Point, Torino.
-
 ## _In progress_ Stage at Compagnia DNA
 
 From May 2015, following as a stagiaire the new creation at [DNA move]
@@ -38,6 +27,17 @@ Valeria D'Amico and Sara Pischedda, Teramo.
 <div class="imgbar">
 <a href="/images/alcesti1.jpg"><img src="/thumbs/alcesti1.jpg"></a>
 </div>
+
+## _December 2014-May 2015_ The Space Between
+
+From December 2014 to May 2015: permanent workshop with Daniele Ninarello.
+Choreography from Daniele Ninarello, creation for Interplay#2015, collaboration
+BelfioreMC and Cecchi Point Torino.
+
+## _December 2014-May 2015_ Collaborate creating "Idilli difficili"
+
+February to May 2015. By Daniela Paci and Marco Lorenzi. Organized by Maria
+Cristina Fontanelle for Cecchi Point, Torino.
 
 ## _November/December 2014_ InstantaNEO
 
@@ -67,7 +67,7 @@ complete team of which died in 1949 in a [plane crash]
 <a href="/images/manichecapitano2.jpg"><img src="/thumbs/manichecapitano2.jpg"></a>
 </div>
 
-## _In progress_ Digitale Purpurea
+## _November/December 2015_ Digitale Purpurea
 
 Creation by Daniele Albanese, Compagnia STALKer in collaboration with Cecchi
 Point.
