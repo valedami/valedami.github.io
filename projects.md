@@ -31,6 +31,10 @@ Cavallerizza Reale, Torino.
 
 Valeria D'Amico and Sara Pischedda, Teramo.
 
+## _10-19 March 2015_ Performing event "Alcesti (o del suono dell'addio)"
+
+[Choir performer] (http://www.gbopera.it/2015/03/alcesti-o-del-suono-delladdio-al-teatro-nuovo-di-torino/) with cie. [ZEROGRAMMI] (http://www.zerogrammi.org/), Torino at Teatro Nuovo Torino.
+
 ## _November/December 2014_ InstantaNEO
 
 In collaboration with Natalia Iwaniec, a new research project that combines
