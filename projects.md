@@ -35,6 +35,10 @@ Valeria D'Amico and Sara Pischedda, Teramo.
 
 [Choir performer] (http://www.gbopera.it/2015/03/alcesti-o-del-suono-delladdio-al-teatro-nuovo-di-torino/) with cie. [ZEROGRAMMI] (http://www.zerogrammi.org/), Torino at Teatro Nuovo Torino.
 
+<div class="imgbar">
+<a href="/images/alcesti1.jpg"><img src="/thumbs/alcesti1.jpg"></a>
+</div>
+
 ## _November/December 2014_ InstantaNEO
 
 In collaboration with Natalia Iwaniec, a new research project that combines
