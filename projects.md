@@ -3,6 +3,16 @@ layout: default
 title: Projects
 ---
 
+## _In preparation_ Don Chishotte
+
+Residency Collision Venezia, projected by Biennale Venezia during year
+2015-2016. Choreography in progress Compagnia Stato Lento thanks to Compagnia
+Tecnologia Filosofica.
+
+## _In preparation_ DiapasonMouv' chor
+
+Sara Pischedda e Valeria D'Amco residency Spazio Electa Teramo, beginning 2016.
+
 ## _In progress_ Stage at Compagnia DNA
 
 From May 2015, following as a stagiaire the new creation at [DNA move]
