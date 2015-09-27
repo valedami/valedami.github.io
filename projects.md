@@ -9,15 +9,6 @@ Residency Collision Venezia, projected by Biennale Venezia during year
 2015-2016. Choreography in progress Compagnia Stato Lento thanks to Compagnia
 Tecnologia Filosofica.
 
-## _In preparation_ DiapasonMouv' chor
-
-Sara Pischedda e Valeria D'Amco residency Spazio Electa Teramo, beginning 2016.
-
-## _In progress_ Stage at Compagnia DNA
-
-From May 2015, following as a stagiaire the new creation at [DNA move]
-(http://www.dnamove.com/wp/), Bologna.
-
 ## _In progress_ Dance video "The here and after"
 
 By Davide Perrino.
@@ -26,9 +17,9 @@ By Davide Perrino.
 
 Cavallerizza Reale, Torino.
 
-## _Soon to realize_ Diapason's Mouv
+## _Soon to realize_ Diapason's Mouv choreography
 
-Valeria D'Amico and Sara Pischedda, Teramo.
+Valeria D'Amico and Sara Pischedda. Residency Spazio Electa Teramo, beginning 2016.
 
 ## _10-19 March 2015_ Performing event "Alcesti (o del suono dell'addio)"
 
