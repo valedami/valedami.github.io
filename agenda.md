@@ -6,22 +6,24 @@ title: Agenda
 ## 2015
 
 <dl>
+<dt>26 Sep</dt>
+<dd>Il terzo Paradiso- Biella, Cittadellarte Fondazione Pistoletto.</dd>
 <dt>26 Jul</dt>
-<dd>Gyrotinic final certification.</dd>
+<dd>Gyrotonic Final Certification.</dd>
 <dt>27, 28 Jun</dt>
-<dd>Bielladanza</dd>
+<dd>Bielladanza. City of Biella, premiere.</dd>
 <dt>22 Jun</dt>
-<dd>The Space Between at Cecchi Point, Torino</dd>
+<dd>The Space Between. Torino, Hub Cecchi Point.</dd>
 <dt>6 Jun</dt>
-<dd>Cindarella at Piazza Cavour, None</dd>
+<dd>Cindarella. None, Piazza Cavour.</dd>
 <dt>29 May</dt>
 <dd>Performing event "The Space Between" at <a
 href="http://www.mosaicodanza.it/mosaicohome.htm">Interplay#15 festival</a>,
 Torino <b>premiere</b>.</dd>
 <dt>23 May</dd>
-<dd>All the way at Centro polivalente, None</dd>
+<dd>All the way. None, Centro polivalente, premiere.</dd>
 <dt>18 May</dd>
-<dd>All the way at Teatro Erba, Torino</dd>
+<dd>All the way. Torino, Teatro Erba.</dd>
 <dt>28 Mar</dt>
 <dd>Performing event "Le Maniche del Capitano", Piscina (To).</dd>
 <dt>20 Feb</dt>

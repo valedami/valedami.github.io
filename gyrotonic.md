@@ -24,13 +24,15 @@ Benefits of GYROTONIC®:
 * Injuries prevention
 * Reduction of joint pain
 
-Valeria is available to give private lessons at the center GYROTONIC® TORINO
-located in the San Salvario, [Via Sant'Anselmo 25]
-(https://www.google.com/maps/place/Via+Sant'Anselmo,+25,+10125+Torino,+Italy/@45.0573857,7.6804356,17z/data=!3m1!4b1!4m2!3m1!1s0x47886d43addc3c97:0x7461e24219102c1d)
-or at the studio YogaPilatesTorino, C.so Tassoni.
+Valeria is available to give private lessons at the following centers:
+
+* Gyrotonic Torino, Via Sant Anselmo 25, Torino
+* Centro YogaPilates, Corso Tassoni 25 , Torino
+* Studio Spazio Attivo, Via Carlo Alberto 27, Torino
+* via Elba 10, Torino (soon)
 
 For information and reservations call 320 9423700 or mail <a
-href="mailto:valedami91@gmail.com">valedami91@gmail.com</a>.
+href="mailto:gyro@valeriadamico.com">gyro@valeriadamico.com</a>.
 
 Regarding the method and location visit Gyrotonic Turin or [Yoga Pilates]
 (http://www.yogapilates.it).
@@ -59,8 +61,13 @@ Benefici del <span class="gyro">GYROTONIC®</span>:
  * Riduzione dei microtraumi da stress
  * Riduzione dei dolori articolari
 
-Valeria é disponibile a dare lezioni private e di coppia presso il centro <span
-class="gyro">GYROTONIC® TORINO</span> situato in zona San Salvario, Via Sant'Anselmo 25.
+Valeria é disponibile a dare lezioni private e di coppia presso
+
+* Gyrotonic Torino, Via Sant Anselmo 25, Torino
+* Centro YogaPilates, Corso Tassoni 25 , Torino
+* Studio Spazio Attivo, Via Carlo Alberto 27, Torino
+* via Elba 10, Torino (presto)
+
 Per informazioni e prenotazioni tel. 320 9423700 o <a
 href="mailto:valedami91@gmail.com">valedami91@gmail.com</a>.
 

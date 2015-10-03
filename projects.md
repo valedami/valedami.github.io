@@ -3,13 +3,30 @@ layout: default
 title: Projects
 ---
 
-## _In preparation_ Don Chishotte
+## _In progress_ Don Chishotte; Urlare nel deserto, lottare contro I mulini a vento
 
-Residency Collision Venezia, projected by Biennale Venezia during year
-2015-2016. Choreography in progress Compagnia Stato Lento thanks to Compagnia
-Tecnologia Filosofica.
+Valeria collaborates actively with the <a
+href="https://www.facebook.com/Collettivo-statolento-936200896424575/timeline/">Collettivo
+StatoLento</a> since September 2015. The intent is to interrogate ourself on
+what is necessary. On what pushes us, as artist and human being to fight
+against daily windmills, on what is effective and what is just a dream as a
+fight upon ideals. The project has been chosen to grow and perform at
+Choreographic Collision 2015-16 in Venice and will gets his residencies in
+Torino, Vicenza and Venice. Valeria will collaborate with the process.
 
-## _In progress_ Dance video "The here and after"
+The Collettivo StatoLento begun working together at the <a
+href="https://cavallerizzareale.wordpress.com/">Royal Cavallerizza of
+Torino</a>, investigating on slowness  as a way of being, as a mental status
+for creating a new society that takes care of the present.
+
+## FORMal
+
+Choreography Natalia Iwaniec, Residency ACASA-Welcoming, Catania,
+February-March 2016; Study of conceptual forms. See the <a
+href="https://www.facebook.com/scenariopubblico/photos/a.229464743790793.53392.113751212028814/921708704566390/?type=3&theater">program
+of Scenario pubblico</a> during the season of 2015/2016.
+
+## Dance video "The here and after"
 
 By Davide Perrino.
 
@@ -17,9 +34,59 @@ By Davide Perrino.
 
 Cavallerizza Reale, Torino.
 
-## _Soon to realize_ Diapason's Mouv choreography
+## Diapason's Mouv choreography
 
-Valeria D'Amico and Sara Pischedda. Residency Spazio Electa Teramo, beginning 2016.
+Valeria D'Amico and Sara Pischedda, Residency Spazio Electa, Teramo, January
+2016. The idea is to research on the reason that pushes human being to move and
+to understand where electricity of vibration and music are connecting to human
+body and his natural instability.
+
+## _Soon to research on_ Urban coffe, la tazzulella de cafe' (temporary title)
+
+Series of choises, underlined difference between humans, fancy habits that
+makes us odd and queery and let us unconsciously persevere on certain
+directions and structures.
+
+## Il Terzo Paradiso
+
+The performance took part at Biella, cittadellarte at Fondazione Pistoletto in
+honour od the famous contemporary artist Michelangelo Pistoletto.
+
+## Bielladanza #3,3
+
+Valeria performs for Maria Cristina Fontanelle at Bielladanza Festival with
+urban performances and a trio about absurde named #3,3 performed with Tommaso
+Serratone and Estehr Fogliano, the trio has been shown at the Gala'. June 2015.
+
+## Birds on a roof; istant composition for LAN Festival
+
+Valeria D'Amico and Daniele Ninarello for LAN Torino Festival, June 2015,  on
+the roof of the ex Birrificio Metzger. Dancers reflect on the loneliness of
+birds.
+
+## _December 2014-May 2015_ The Space Between
+
+From December 2014 to May 2015: permanent workshop with Daniele Ninarello.
+Choreography from Daniele Ninarello, creation for Interplay#2015, collaboration
+BelfioreMC and Cecchi Point Torino. The dance comes from the space that stands
+between human beings studing interios and exterior spaces through analitical
+forms and projected through Instantaneous compositions; the research with the
+group goes through 2015- 2016.
+
+## All the way
+
+Choreography and performance Valeria D'Amico. Ideals, fight, push, sweat, human
+drive that takes us forward when we search ourselves and we direct towords what
+we believe and want. The concept has been taken by the poetry from Charles
+Boukowsky “Go all the way”
+
+## Cindarella
+
+Valeria created the dance piece Cindarella for the student of the private
+school Il mondo a passo di danza di None; the dance has been performed together
+with the filarmonic orchestra of None. Cindarella is a piece about woman
+condition and is a parody of pedestrian obsession of cleaning something or
+somewhat. 6Th June 2015.
 
 ## _10-19 March 2015_ Performing event "Alcesti (o del suono dell'addio)"
 
@@ -29,16 +96,13 @@ Valeria D'Amico and Sara Pischedda. Residency Spazio Electa Teramo, beginning 20
 <a href="/images/alcesti1.jpg"><img src="/thumbs/alcesti1.jpg"></a>
 </div>
 
-## _December 2014-May 2015_ The Space Between
-
-From December 2014 to May 2015: permanent workshop with Daniele Ninarello.
-Choreography from Daniele Ninarello, creation for Interplay#2015, collaboration
-BelfioreMC and Cecchi Point Torino.
-
-## _December 2014-May 2015_ Collaborate creating "Idilli difficili"
+## _December 2014-May 2015_ Collaborate creating "Idilli difficili"; collaboration and assistant in creation
 
 February to May 2015. By Daniela Paci and Marco Lorenzi. Organized by Maria
-Cristina Fontanelle for Cecchi Point, Torino.
+Cristina Fontanelle for Cecchi Point, Torino. Taken from a book by Italo
+Calvino, Idilli difficili is a trip into absurde scenes, a naive game in
+sweetness and fears. the idea is to keep working with the dancers and actors on
+the same line during February 2016.
 
 ## _November/December 2014_ InstantaNEO
 
@@ -56,22 +120,11 @@ To be continued.
 
 Video credits Andrea Re.
 
-## _December 2014-April 2015_ Le maniche del capitano
-
-Theatrical performance from the company "Quelli dell'isola" touring through
-Piemonte. The dramaturgical piece tells the tragic story of Gran Torino, the
-complete team of which died in 1949 in a [plane crash]
-(http://en.wikipedia.org/wiki/Superga_air_disaster).
-
-<div class="imgbar">
-<a href="/images/manichecapitano1.jpg"><img src="/thumbs/manichecapitano1.jpg"></a>
-<a href="/images/manichecapitano2.jpg"><img src="/thumbs/manichecapitano2.jpg"></a>
-</div>
-
 ## _November/December 2015_ Digitale Purpurea
 
-Creation by Daniele Albanese, Compagnia STALKer in collaboration with Cecchi
-Point.
+Creation by Daniele Albanese, <a
+href="http://compagniastalker.com/dates/">Compagnia STALKer</a> in
+collaboration with Cecchi Point.
 
 <div class="imgbar">
 <a href="/images/purpurea1.jpg"><img src="/thumbs/purpurea1.jpg"></a>
@@ -86,6 +139,25 @@ Keywords: patterns, nature, magnets and energies.
 Projects for elementary schools (age 7+), Piemonte, Italy. Inspired by the book
 of the same title by Paolo Marabotto. The project aims to break down walls
 between cultures and social groups.
+
+## _2014_ LOVEism; side actress performer
+
+Valeria took part in <a href="http://www.love-ism.nl/">LOVEism</a>, movie
+documentary about Love in all his forms by Paul Sixta and Mor Shani. The movie
+has been presented though all the world and being shown at Amsterdam film
+festival in 2014.
+
+## _December 2014-April 2015_ Le maniche del capitano
+
+Theatrical performance from the company "Quelli dell'isola" touring through
+Piemonte. The dramaturgical piece tells the tragic story of Gran Torino, the
+complete team of which died in 1949 in a [plane crash]
+(http://en.wikipedia.org/wiki/Superga_air_disaster).
+
+<div class="imgbar">
+<a href="/images/manichecapitano1.jpg"><img src="/thumbs/manichecapitano1.jpg"></a>
+<a href="/images/manichecapitano2.jpg"><img src="/thumbs/manichecapitano2.jpg"></a>
+</div>
 
 ## _September/October 2014_ ModemPro
 
