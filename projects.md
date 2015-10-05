@@ -3,6 +3,19 @@ layout: default
 title: Projects
 ---
 
+Valeria is working with kids with propedeutical courses at Hub Cecchi Pint,
+Torino and in None in the private school Il Mondo a  Passo di Danza. She is
+taking care of the modern contemporary teaching in the private schools
+Compagniadellanebbia, Carmagnola and the school Il Gabbiano from Torino curing
+projects with Aterballetto fondation from October 2015. She is still active in
+dancing courses and researches particulary with Daniele Ninarello and she
+updates herself daily with workshops. 
+
+She is currently working teaching Pilates and Gyrotonic in Torino. During the
+month of October 2015 she is having her internship for university education at
+<a href="http://www.lodiginnastica.it/">Centro Funzionale Lodi</a>, via Carlo
+Alberto Torino.
+
 ## _In progress_ Don Chishotte; Urlare nel deserto, lottare contro I mulini a vento
 
 Valeria collaborates actively with the <a
@@ -58,11 +71,23 @@ Valeria performs for Maria Cristina Fontanelle at Bielladanza Festival with
 urban performances and a trio about absurde named #3,3 performed with Tommaso
 Serratone and Estehr Fogliano, the trio has been shown at the Gala'. June 2015.
 
+<div class="imgbar">
+<a href="/images/bielladanza1.jpg"><img src="/thumbs/bielladanza1.jpg"></a>
+<a href="/images/bielladanza2.jpg"><img src="/thumbs/bielladanza2.jpg"></a>
+<a href="/images/bielladanza3.jpg"><img src="/thumbs/bielladanza3.jpg"></a>
+</div>
+
 ## Birds on a roof; istant composition for LAN Festival
 
 Valeria D'Amico and Daniele Ninarello for LAN Torino Festival, June 2015,  on
 the roof of the ex Birrificio Metzger. Dancers reflect on the loneliness of
 birds.
+
+<div class="imgbar">
+<a href="/images/birdsonaroof1.jpg"><img src="/thumbs/birdsonaroof1.jpg"></a>
+<a href="/images/birdsonaroof2.jpg"><img src="/thumbs/birdsonaroof2.jpg"></a>
+<a href="/images/birdsonaroof3.jpg"><img src="/thumbs/birdsonaroof3.jpg"></a>
+</div>
 
 ## _December 2014-May 2015_ The Space Between
 
@@ -73,12 +98,23 @@ between human beings studing interios and exterior spaces through analitical
 forms and projected through Instantaneous compositions; the research with the
 group goes through 2015- 2016.
 
+<div class="imgbar">
+<a href="/images/spacebetween1.jpg"><img src="/thumbs/spacebetween1.jpg"></a>
+<a href="/images/spacebetween2.jpg"><img src="/thumbs/spacebetween2.jpg"></a>
+<a href="/images/spacebetween3.jpg"><img src="/thumbs/spacebetween3.jpg"></a>
+</div>
+
 ## All the way
 
 Choreography and performance Valeria D'Amico. Ideals, fight, push, sweat, human
 drive that takes us forward when we search ourselves and we direct towords what
 we believe and want. The concept has been taken by the poetry from Charles
 Boukowsky “Go all the way”
+
+<div class="imgbar">
+<a href="/images/alltheway1.jpg"><img src="/thumbs/alltheway1.jpg"></a>
+<a href="/images/alltheway2.jpg"><img src="/thumbs/alltheway2.jpg"></a>
+</div>
 
 ## Cindarella
 
@@ -87,6 +123,14 @@ school Il mondo a passo di danza di None; the dance has been performed together
 with the filarmonic orchestra of None. Cindarella is a piece about woman
 condition and is a parody of pedestrian obsession of cleaning something or
 somewhat. 6Th June 2015.
+
+<div class="imgbar">
+<a href="/images/cindarella1.jpg"><img src="/thumbs/cindarella1.jpg"></a>
+<a href="/images/cindarella2.jpg"><img src="/thumbs/cindarella2.jpg"></a>
+<a href="/images/cindarella3.jpg"><img src="/thumbs/cindarella3.jpg"></a>
+<a href="/images/cindarella4.jpg"><img src="/thumbs/cindarella4.jpg"></a>
+<a href="/images/cindarella5.jpg"><img src="/thumbs/cindarella5.jpg"></a>
+</div>
 
 ## _10-19 March 2015_ Performing event "Alcesti (o del suono dell'addio)"
 
