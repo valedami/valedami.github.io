@@ -5,7 +5,7 @@ title: Gyrotonic®
 
 _Italian [below] (#italian)._
 
-The GYROTONIC® method, developed in the 80s by the Master Juliu Horvath, has
+The <span class="gyro">GYROTONIC®</span> method, developed in the 80s by the Master Juliu Horvath, has
 shown to be an exceptional method suitable to develop the potential of not only
 physical athlete and dancer, but of every individual who wishes to know more
 about their body. The principles of Yoga, Tai-Chi, dance, gymnastics, swimming
@@ -15,7 +15,7 @@ flexible and strong. By synchronizing movement with breathing, it improves lung
 capacity, venous flow and physical endurance. This method also yields a correct
 posture, a greater sense of balance and a better neuromuscular coordination.
 
-Benefits of GYROTONIC®:
+Benefits of <span class="gyro">GYROTONIC®</span>:
 
 * Greater flexibility of the column
 * Major joint extension
