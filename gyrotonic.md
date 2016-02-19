@@ -32,7 +32,7 @@ Valeria is available to give private lessons at the following centers:
 * via Elba 10, Torino (soon)
 
 For information and reservations call 320 9423700 or mail <a
-href="mailto:gyro@valeriadamico.com">gyro@valeriadamico.com</a>.
+href="mailto:move@valeriadamico.com">move@valeriadamico.com</a>.
 
 Regarding the method and location visit Gyrotonic Turin or [Yoga Pilates]
 (http://www.yogapilates.it).
@@ -69,7 +69,7 @@ Valeria é disponibile a dare lezioni private e di coppia presso
 * via Elba 10, Torino (presto)
 
 Per informazioni e prenotazioni tel. 320 9423700 o <a
-href="mailto:valedami91@gmail.com">valedami91@gmail.com</a>.
+href="mailto:valedami91@gmail.com">move@valeriadamico.com</a>.
 
 Riguardo il metodo e la sede visitare il sito [Gyrotonic Torino] (http://www.gyrotonic-torino.com).
 
