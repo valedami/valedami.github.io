@@ -3,7 +3,7 @@ layout: default
 title: Biography
 ---
 
-_Italian [below] (#italian)._
+_Italian [below](#italian)._
 
 Born in Turin in 1991, Valeria D'Amico starts very young to take her
 first dance steps in the school "Il mondo a passo di danza" in None. She

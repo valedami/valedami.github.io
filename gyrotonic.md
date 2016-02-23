@@ -3,7 +3,7 @@ layout: default
 title: Gyrotonic®
 ---
 
-_Italian [below] (#italian)._
+_Italian [below](#italian)._
 
 The <span class="gyro">GYROTONIC®</span> method, developed in the 80s by the Master Juliu Horvath, has
 shown to be an exceptional method suitable to develop the potential of not only
@@ -32,7 +32,7 @@ Valeria is available to give private lessons at the following centers:
 * via Elba 10, Torino (soon)
 
 For information and reservations call 320 9423700 or mail <a
-href="mailto:move@valeriadamico.com">move@valeriadamico.com</a>.
+href="mailto:info@valeriadamico.com">info@valeriadamico.com</a>.
 
 Regarding the method and location visit Gyrotonic Turin or [Yoga Pilates]
 (http://www.yogapilates.it).
@@ -69,8 +69,8 @@ Valeria é disponibile a dare lezioni private e di coppia presso
 * via Elba 10, Torino (presto)
 
 Per informazioni e prenotazioni tel. 320 9423700 o <a
-href="mailto:valedami91@gmail.com">move@valeriadamico.com</a>.
+href="mailto:info@valeriadamico.com">info@valeriadamico.com</a>.
 
-Riguardo il metodo e la sede visitare il sito [Gyrotonic Torino] (http://www.gyrotonic-torino.com).
+Riguardo il metodo e la sede visitare il sito [Gyrotonic Torino](http://www.gyrotonic-torino.com).
 
 <img src="/images/gyrotonic.jpg" class="fullwidth">

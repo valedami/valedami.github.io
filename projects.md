@@ -134,7 +134,7 @@ somewhat. 6Th June 2015.
 
 ## _10-19 March 2015_ Performing event "Alcesti (o del suono dell'addio)"
 
-[Choir performer] (http://www.gbopera.it/2015/03/alcesti-o-del-suono-delladdio-al-teatro-nuovo-di-torino/) with cie. [ZEROGRAMMI] (http://www.zerogrammi.org/), Torino at Teatro Nuovo Torino.
+[Choir performer](http://www.gbopera.it/2015/03/alcesti-o-del-suono-delladdio-al-teatro-nuovo-di-torino/) with cie. [ZEROGRAMMI](http://www.zerogrammi.org/), Torino at Teatro Nuovo Torino.
 
 <div class="imgbar">
 <a href="/images/alcesti1.jpg"><img src="/thumbs/alcesti1.jpg"></a>
