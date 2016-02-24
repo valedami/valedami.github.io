@@ -1,5 +1,5 @@
 body {
-  background: #f4efc9;
+  background: white; /* #f4efc9; */
   font-family: Georgia, serif;
   padding: 0;
   margin: 0;
@@ -13,7 +13,7 @@ body {
 header {
   padding: 0;
   margin-top: 20px;
-  background: #c4bf99;
+  background: #fdb; /* #c4bf99; */
 }
 
 header a {
@@ -23,7 +23,7 @@ header a {
 #banner, footer {
   margin: 0;
   padding: 0;
-  background: #e4dfb9;
+  background: #fed; /* #e4dfb9; */
 }
 
 #banner{
@@ -53,7 +53,7 @@ main p {
 
 a {
   text-decoration: none;
-  color: #d2691e;
+  color: #08f;
 }
 
 nav {
@@ -88,7 +88,7 @@ h1 {
 }
 
 .selected {
-  background: #847f59;
+  background: #e95; /* #847f59; */
   color: white;
 }
 
@@ -98,7 +98,7 @@ h2 {
 }
 
 em {
-  color: #847f59;
+  color: #e95; /* #847f59; */
   font-style: normal;
 }
 
@@ -111,7 +111,7 @@ h2 em {
 }
 
 iframe, img {
-  border: 1px solid #e4dfb9;
+  border: 1px solid #fdb;
 }
 
 .imgbar img {
@@ -122,14 +122,13 @@ iframe, img {
 hr {
   border: 0;
   height: 1px;
-  background: #d4cfa9;
+  background: #e95;
 }
 
 footer {
   margin: 0;
   margin-top: 25px;
   padding: 5px 0;
-  color: #847f59;
 }
 
 .fullwidth {
@@ -147,7 +146,7 @@ dt {
   width: 10ex;
   text-align: right;
   font-weight: bold;
-  color: #847f59;
+  color: #e95; /* #847f59; */
 }
 
 dd {

@@ -3,7 +3,7 @@ layout: default
 title: Gyrotonic®
 ---
 
-_Italian [below](#italian)._
+Italian [below](#italian).
 
 The <span class="gyro">GYROTONIC®</span> method, developed in the 80s by the Master Juliu Horvath, has
 shown to be an exceptional method suitable to develop the potential of not only

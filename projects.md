@@ -11,10 +11,26 @@ projects with Aterballetto fondation from October 2015. She is still active in
 dancing courses and researches particulary with Daniele Ninarello and she
 updates herself daily with workshops. 
 
-She is currently working teaching Pilates and Gyrotonic in Torino. During the
+She is nourishing her interest in neuroscience pedagogy and anatomy of movement
+by attending SUISM university and updating herself studying body and mind
+relation towards benefits of Yoga and Pilates; she is collaborating as personal
+training with Centro Funzionale Lodi, via Carlo Alberto.
+
+<!--She is currently working teaching Pilates and Gyrotonic in Torino. During the
 month of October 2015 she is having her internship for university education at
 <a href="http://www.lodiginnastica.it/">Centro Funzionale Lodi</a>, via Carlo
-Alberto Torino.
+Alberto Torino.-->
+
+## _In progress_ L'archivio di memorie (working title)
+
+Chor. Daniele Ninarello. Study research over body memories taking us into
+movement, recycling of movement material.
+
+## _In progress_ (title under construction)
+
+Residency space at Officine Caos Torino, solo dance performance, chor.
+Francesco Dalmasso. Interrogating ourselves about ourselves in the biographic
+piece.
 
 ## _In progress_ Don Chishotte; Urlare nel deserto, lottare contro I mulini a vento
 
@@ -39,26 +55,13 @@ February-March 2016; Study of conceptual forms. See the <a
 href="https://www.facebook.com/scenariopubblico/photos/a.229464743790793.53392.113751212028814/921708704566390/?type=3&theater">program
 of Scenario pubblico</a> during the season of 2015/2016.
 
-## Dance video "The here and after"
-
-By Davide Perrino.
-
-## _Soon to realize_ Adelaide's After Party
-
-Cavallerizza Reale, Torino.
-
 ## Diapason's Mouv choreography
 
 Valeria D'Amico and Sara Pischedda, Residency Spazio Electa, Teramo, January
 2016. The idea is to research on the reason that pushes human being to move and
 to understand where electricity of vibration and music are connecting to human
-body and his natural instability.
-
-## _Soon to research on_ Urban coffe, la tazzulella de cafe' (temporary title)
-
-Series of choises, underlined difference between humans, fancy habits that
-makes us odd and queery and let us unconsciously persevere on certain
-directions and structures.
+body and his natural instability. Choreographic residency Mosaico Danza,
+Torino, April 2016.
 
 ## Il Terzo Paradiso
 
@@ -123,14 +126,6 @@ school Il mondo a passo di danza di None; the dance has been performed together
 with the filarmonic orchestra of None. Cindarella is a piece about woman
 condition and is a parody of pedestrian obsession of cleaning something or
 somewhat. 6Th June 2015.
-
-<div class="imgbar">
-<a href="/images/cindarella1.jpg"><img src="/thumbs/cindarella1.jpg"></a>
-<a href="/images/cindarella2.jpg"><img src="/thumbs/cindarella2.jpg"></a>
-<a href="/images/cindarella3.jpg"><img src="/thumbs/cindarella3.jpg"></a>
-<a href="/images/cindarella4.jpg"><img src="/thumbs/cindarella4.jpg"></a>
-<a href="/images/cindarella5.jpg"><img src="/thumbs/cindarella5.jpg"></a>
-</div>
 
 ## _10-19 March 2015_ Performing event "Alcesti (o del suono dell'addio)"
 
