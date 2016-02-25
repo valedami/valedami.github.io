@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gyrotonic®
+title: GYROTONIC®
 ---
 
 Italian [below](#italian).
@@ -26,16 +26,13 @@ Benefits of <span class="gyro">GYROTONIC®</span>:
 
 Valeria is available to give private lessons at the following centers:
 
-* Gyrotonic Torino, Via Sant Anselmo 25, Torino
-* Centro YogaPilates, Corso Tassoni 25 , Torino
-* Studio Spazio Attivo, Via Carlo Alberto 27, Torino
-* via Elba 10, Torino (soon)
+* Via Sant Anselmo 25, Torino
+* Corso Tassoni 25 , Torino
+* Via Carlo Alberto 27, Torino
+* Via Elba 10, Torino (soon)
 
 For information and reservations call 320 9423700 or mail <a
 href="mailto:info@valeriadamico.com">info@valeriadamico.com</a>.
-
-Regarding the method and location visit Gyrotonic Turin or [Yoga Pilates]
-(http://www.yogapilates.it).
 
 ---
 
@@ -63,14 +60,12 @@ Benefici del <span class="gyro">GYROTONIC®</span>:
 
 Valeria é disponibile a dare lezioni private e di coppia presso
 
-* Gyrotonic Torino, Via Sant Anselmo 25, Torino
-* Centro YogaPilates, Corso Tassoni 25 , Torino
-* Studio Spazio Attivo, Via Carlo Alberto 27, Torino
-* via Elba 10, Torino (presto)
+* Via Sant Anselmo 25, Torino
+* Corso Tassoni 25 , Torino
+* Via Carlo Alberto 27, Torino
+* Via Elba 10, Torino (presto)
 
 Per informazioni e prenotazioni tel. 320 9423700 o <a
 href="mailto:info@valeriadamico.com">info@valeriadamico.com</a>.
-
-Riguardo il metodo e la sede visitare il sito [Gyrotonic Torino](http://www.gyrotonic-torino.com).
 
 <img src="/images/gyrotonic.jpg" class="fullwidth">
