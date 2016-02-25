@@ -22,12 +22,6 @@ header a {
   color: black;
 }
 
-#banner, footer {
-  margin: 0;
-  padding: 0;
-  border-bottom: 1px solid #fed; /* #e4dfb9; */
-}
-
 footer {
   margin: 0;
   padding: 0;
@@ -36,6 +30,8 @@ footer {
 }
 
 #banner{
+  margin: 0;
+  padding: 0;
   background-image: url("/bannertrans.png");
   background-repeat: repeat-x;
   background-position: center;
