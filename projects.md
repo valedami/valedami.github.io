@@ -43,7 +43,7 @@ fight upon ideals. The project has been chosen to grow and perform at
 Choreographic Collision 2015-16 in Venice and will gets his residencies in
 Torino, Vicenza and Venice. Valeria will collaborate with the process.
 
-The Collettivo StatoLento begun working together at the <a
+The Collettivo StatoLento began working together at the <a
 href="https://cavallerizzareale.wordpress.com/">Royal Cavallerizza of
 Torino</a>, investigating on slowness  as a way of being, as a mental status
 for creating a new society that takes care of the present.
