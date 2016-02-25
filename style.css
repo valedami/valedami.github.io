@@ -12,8 +12,10 @@ body {
 
 header {
   padding: 0;
-  margin-top: 20px;
-  background: #fdb; /* #c4bf99; */
+  margin-top: 0;
+  background: #fed; /* #c4bf99; */
+  border-top: 1px solid #fdb;
+  border-bottom: 1px solid #fdb;
 }
 
 header a {
@@ -23,7 +25,14 @@ header a {
 #banner, footer {
   margin: 0;
   padding: 0;
+  border-bottom: 1px solid #fed; /* #e4dfb9; */
+}
+
+footer {
+  margin: 0;
+  padding: 0;
   background: #fed; /* #e4dfb9; */
+  border-top: 1px solid #fdb;
 }
 
 #banner{
@@ -98,8 +107,10 @@ h2 {
 }
 
 em {
-  color: #e95; /* #847f59; */
+  border: 1px solid black;
+  padding: 4px;
   font-style: normal;
+  font-weight: normal;
 }
 
 h2 em {
@@ -122,7 +133,7 @@ iframe, img {
 hr {
   border: 0;
   height: 1px;
-  background: #e95;
+  background: #fdb;
 }
 
 footer {
@@ -145,13 +156,12 @@ dt {
   clear: left;
   width: 10ex;
   text-align: right;
-  font-weight: bold;
-  color: #e95; /* #847f59; */
 }
 
 dd {
   margin: 0 0 0 11ex;
-  padding: 0 0 0.5em 0;
+  padding: 0 0 0.5em .5em;
+  border-left: 1px solid #fdb;
 }
 
 .videoWrapper {
@@ -172,4 +182,24 @@ dd {
 
 .center {
   text-align: center;
+}
+
+table {
+  width: 100%;
+  border: none;
+  border-collapse: collapse;
+}
+
+table td {
+  border-left: 1px solid #fdb;
+  padding-left: 1ex;
+  padding-bottom: .5ex;
+  vertical-align: top;
+}
+
+table td:first-child {
+  border: none;
+  text-align: right;
+  padding-left: 0;
+  padding-right: 1ex;
 }
